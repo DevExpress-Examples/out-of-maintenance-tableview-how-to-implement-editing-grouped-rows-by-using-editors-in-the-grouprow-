@@ -6,7 +6,7 @@
 * [EditorWrapper.cs](./CS/DevExpress.Example03/EditorWrapper.cs) (VB: [EditorWrapper.vb](./VB/DevExpress.Example03/EditorWrapper.vb))
 * [Employee.cs](./CS/DevExpress.Example03/Employee.cs) (VB: [Employee.vb](./VB/DevExpress.Example03/Employee.vb))
 * [MainWindow.xaml](./CS/DevExpress.Example03/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DevExpress.Example03/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DevExpress.Example03/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DevExpress.Example03/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DevExpress.Example03/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DevExpress.Example03/MainWindow.xaml.vb))
 <!-- default file list end -->
 # TableView - How to implement editing grouped rows by using editors in the GroupRow
 
