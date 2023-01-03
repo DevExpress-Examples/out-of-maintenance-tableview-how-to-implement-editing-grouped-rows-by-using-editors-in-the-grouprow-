@@ -6,7 +6,6 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CheckableGroupBehavior.cs](./CS/DevExpress.Example03/CheckableGroupBehavior.cs) (VB: [CheckableGroupBehavior.vb](./VB/DevExpress.Example03/CheckableGroupBehavior.vb))
 * [DataHelper.cs](./CS/DevExpress.Example03/DataHelper.cs) (VB: [DataHelper.vb](./VB/DevExpress.Example03/DataHelper.vb))
 * [EditorWrapper.cs](./CS/DevExpress.Example03/EditorWrapper.cs) (VB: [EditorWrapper.vb](./VB/DevExpress.Example03/EditorWrapper.vb))
 * [Employee.cs](./CS/DevExpress.Example03/Employee.cs) (VB: [Employee.vb](./VB/DevExpress.Example03/Employee.vb))
